@@ -1,0 +1,22 @@
+{
+  "name": "firstapi",
+  "version": "1.0.0",
+  "description": "test authenticatino\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[T\u001b[C",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "bcrypt": "^3.0.4",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.15",
+    "passport": "^0.4.0",
+    "passport-http": "^0.3.0",
+    "reload": "^2.4.0"
+  }
+}
